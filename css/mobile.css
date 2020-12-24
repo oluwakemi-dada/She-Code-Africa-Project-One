@@ -35,6 +35,13 @@
 }
 
 @media (max-width: 600px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+  }
   .services-grid,
   .popular-vendors-grid {
     flex-direction: column;
