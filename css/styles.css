@@ -297,13 +297,7 @@ section {
 }
 
 .testimonial {
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* align-items: center; */
-  /* justify-content: center; */
   position: relative;
-  /* background: #fcbad3; */
-  /* padding-bottom: 0; */
 }
 
 .testimonial-content {
@@ -313,7 +307,6 @@ section {
   justify-content: center;
   padding-left: 20%;
   padding-right: 20%;
-  /* padding-bottom: 4rem; */
 }
 
 .testimonial-image {

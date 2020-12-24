@@ -57,6 +57,11 @@
     width: 60%;
   }
 
+  .testimonial-content {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
   .popular-vendors-info {
     width: 65%;
   }
