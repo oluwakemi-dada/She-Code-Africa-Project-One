@@ -44,7 +44,6 @@
   }
 
   .slide-content {
-    /* width: 100vw !important; */
     padding: 15vh 10% 10vh 10% !important;
   }
 
@@ -57,7 +56,9 @@
     width: 60%;
   }
 
-  .testimonial-content {
+  .testimonial-content,
+  .find-vendors > *,
+  .download > * {
     padding-left: 10%;
     padding-right: 10%;
   }
