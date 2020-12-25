@@ -47,6 +47,10 @@
     padding: 15vh 10% 10vh 10% !important;
   }
 
+  .owl-nav button {
+    visibility: none;
+  }
+
   .services-grid,
   .popular-vendors-grid {
     flex-direction: column;
