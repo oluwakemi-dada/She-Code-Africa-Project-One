@@ -49,7 +49,7 @@
 
   .owl-prev,
   .owl-next {
-   display: none;
+   display: none ! important;
   }
 
   .services-grid,
