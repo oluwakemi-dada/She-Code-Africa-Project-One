@@ -47,8 +47,9 @@
     padding: 15vh 10% 10vh 10% !important;
   }
 
-  .owl-nav button {
-    visibility: none;
+  .owl-prev,
+  .owl-next {
+   display: none;
   }
 
   .services-grid,
